@@ -1,0 +1,20 @@
+.list-container {
+  background-color: rgb(216, 224, 231);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.heading {
+  color: brown;
+  font-style: italic;
+  text-align: center;
+}
+.add-container {
+  position: sticky;
+  top: 0;
+}
+.dreamtag {
+  text-align: center;
+}

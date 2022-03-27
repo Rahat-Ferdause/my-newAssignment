@@ -1,0 +1,62 @@
+[
+  {
+    "id": "623ecc1a5336efca40ebefc9",
+    "price": 1951,
+    "picture": "img/image-1.jpeg",
+    "name": "Luzern, LU, Switzerland "
+  },
+  {
+    "id": "623ecc1a9ce64f13e21cdfdb",
+    "price": 1841,
+    "picture": "img/image-2.jpeg",
+    "name": "Seashore, IceLand "
+  },
+  {
+    "id": "623ecc1ad89cae5acce2a077",
+    "price": 2498,
+    "picture": "img/image-3.jpeg",
+    "name": "Aurora Borealis, Norway "
+  },
+  {
+    "id": "623ecc1aca342d4753e2f85a",
+    "price": 3746,
+    "picture": "img/image-4.jpeg",
+    "name": "White and Brown Concrete Building, Germany"
+  },
+  {
+    "id": "623ecc1a2b72094c189b038d",
+    "price": 2690,
+    "picture": "img/image-5.jpeg",
+    "name": "Santorini, Greece"
+  },
+  {
+    "id": "623ecc1ae837d1df2048c454",
+    "price": 1361,
+    "picture": "img/image-6.jpeg",
+    "name": "Osaka, Japan"
+  },
+  {
+    "id": "623ecc1a3479e07d804b1359",
+    "price": 2907,
+    "picture": "img/image-7.jpeg",
+    "name": "Eiffel Tower, Paris"
+  },
+  {
+    "id": "623ecc1a1ef03b964abba463",
+    "price": 1555,
+    "picture": "img/image-8.jpeg",
+    "name": "Dubai, UAE"
+  },
+  {
+    "id": "623ecc1aebd6ca4f7a65bfab",
+    "price": 2026,
+    "picture": "img/image-9.jpeg",
+    "name": "NeyWork, USA"
+  },
+  {
+    "id": "623ecc1ad6405046019ae244",
+    "price": 1487,
+    "picture": "img/image-10.jpeg",
+    "name": "Greater London, England, United Kingdom"
+  }
+]

@@ -1,0 +1,11 @@
+.add-container {
+  background-color: rgb(151, 191, 226);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  position: sticky;
+  top: 0;
+  padding-top: 30px;
+}
+.dreamtag {
+  text-align: center;
+}
