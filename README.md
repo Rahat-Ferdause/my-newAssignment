@@ -1,5 +1,5 @@
 # Live Website Link
-Link: (https://rainbow-bienenstitch-223e40.netlify.app/).
+Link: https://rainbow-bienenstitch-223e40.netlify.app/
 
 # Getting Started with Create React App
 
